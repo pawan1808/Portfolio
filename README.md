@@ -18,7 +18,7 @@ This website can be used as:
 
 ## Features
 
-* Responsive Navigation Bar
+
 * Modern Hero Section
 * Interactive Buttons
 * About Section
